@@ -1,6 +1,6 @@
 module cosmossdk.io/core
 
-go 1.23.0
+go 1.24.0
 
 require (
 	cosmossdk.io/api v0.9.2
@@ -8,7 +8,7 @@ require (
 	cosmossdk.io/math v1.5.3
 	github.com/cosmos/cosmos-db v1.1.1
 	github.com/stretchr/testify v1.10.0
-	google.golang.org/grpc v1.72.2
+	google.golang.org/grpc v1.76.0
 	google.golang.org/protobuf v1.36.6
 )
 
@@ -48,11 +48,11 @@ require (
 	github.com/tendermint/go-amino v0.16.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	golang.org/x/exp v0.0.0-20240404231335-c0f41cb1a7a0 // indirect
-	golang.org/x/net v0.40.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
-	golang.org/x/text v0.25.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20250324211829-b45e905df463 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250422160041-2d3770c4ea7f // indirect
+	golang.org/x/net v0.42.0 // indirect
+	golang.org/x/sys v0.34.0 // indirect
+	golang.org/x/text v0.27.0 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20250804133106-a7a43d27e69b // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250804133106-a7a43d27e69b // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	sigs.k8s.io/yaml v1.6.0 // indirect
 )
